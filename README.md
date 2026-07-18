@@ -9,6 +9,9 @@ A random password generator built using HTML, CSS, and JavaScript.
 - Uses numbers
 - Uses symbols
 
+## Screenshot
+<img width="950" height="436" alt="passwordgenerator" src="https://github.com/user-attachments/assets/4a8683ec-c40e-4b6e-8a38-6e62534955d9" />
+
 ## Technologies Used
 - HTML
 - CSS
